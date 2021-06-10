@@ -1,5 +1,5 @@
 
-![images](SS.JPG)
+![images](images/SS.JPG)
 
 # MetaData Overview
 Metadata is data that describes other data. Meta is a prefix that -- in most information technology usages -- means "an underlying definition or description." 
