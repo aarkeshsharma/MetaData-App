@@ -26,7 +26,7 @@ Audio files(Mp3,OGG)
 
 Anlytics Monitoring technique to define the volume of files uploaded
 
-You can also download metadata in CSV in your local system
+You can also download metadata in .CSV format in your local system
 
 # Downloading the source code
 Clone the Repository (Recommended) If you have git installed, this is a recommended approach as you can quickly sync and stay up to date with the latest version. This is also a preferred way of downloading the code if you decide to contribute to the project.
