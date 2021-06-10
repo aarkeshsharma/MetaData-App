@@ -40,4 +40,4 @@ aarkeshsharma
 Copyright (c) 2021-present, Aarkesh Sharma aarkeshsharma@gmail.com
 
 *Your reviews & comments are valuable
-*Thank You!!
+Thank You!!
