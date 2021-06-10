@@ -1,3 +1,6 @@
+
+![images](SS.JPG)
+
 # MetaData Overview
 Metadata is data that describes other data. Meta is a prefix that -- in most information technology usages -- means "an underlying definition or description." 
 Metadata summarizes basic information about data, which can make finding and working with particular instances of data easier
